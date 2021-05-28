@@ -2,9 +2,9 @@
 
 @font-face {
     font-family: 'onryou'; 
-    src: url('font/onryou.ttf') format('truetype');
+    src: url('../font/onryou.ttf') format('truetype');
     font-family: 'jojo'; 
-    src: url('font/BIZARG__.ttf') format('truetype');
+    src: url('../font/BIZARG__.ttf') format('truetype');
 }
 
 body{
