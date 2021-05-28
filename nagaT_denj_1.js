@@ -157,7 +157,7 @@ function drawPose(pose) {
                 ctx.fillStyle = "#330000";
                 var px=Math.random()*5;
                 var py=Math.random()*5;
-                ctx.fillText("G", x[i]+px, y[i]+py);
+                ctx.fillText("ゴ", x[i]+px, y[i]+py);
                 ctx.fillStyle = "#de4d4d";
                 ctx.fillText("G", x[i]-5+px, y[i]-5+py);
                 
